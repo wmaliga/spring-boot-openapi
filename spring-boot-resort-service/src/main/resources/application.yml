@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: resort-service
+
+server:
+  port: 8080
